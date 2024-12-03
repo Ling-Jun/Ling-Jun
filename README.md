@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, NLP, Time series, GIS, LiDAR data analysis, FastAPI, PyTorch,**
 
-- 📫 How to reach me **lingjun.l.zhou@gmail.com**
+- 📫 How to reach me **lingjun.l.zhou@gmail.com** ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ling-jun-zhou/](https://www.linkedin.com/in/ling-jun-zhou/)
 
