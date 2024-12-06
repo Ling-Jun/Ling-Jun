@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ling-Jun</h1>
 <h3 align="center">Data Scientist | Scalable Solutions, AI ethics | I bridge data, modeling, and engineering to build ethical, maintainable AI that drives business outcomes | Experienced in Time Series Analysis, NLP, DevOps, Machine Learning Deployment, and GIS</h3>
 
+
+<img src="/daBoss02/daBoss02/raw/main/assets/cabin.png" alt="Cabin in the Woods" title="Cabin in the Woods" style="max-width: 100%;">
+
 - I’m currently working on **Selenium based webscraping that detects meaningful changes of the web URL updates with NLP models**
 
 - I’m currently learning **RAG LLM**
