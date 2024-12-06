@@ -5,7 +5,7 @@
 
 - I’m currently learning **RAG LLM**
 
-- Ask me about **Python, NLP, Time series, GIS, LiDAR data analysis, FastAPI, PyTorch,** 
+- Ask me about **Python, NLP, Time series, GIS, LiDAR data analysis, FastAPI, PyTorch, Math & Theoretical Physics** 
 
 - Fun fact: **I think I'm quirky**
 
