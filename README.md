@@ -5,17 +5,18 @@
 
 - I’m currently learning **RAG LLM**
 
-- Ask me about **Python, NLP, Time series, GIS, LiDAR data analysis, FastAPI, PyTorch,**
-
-- <a href="mailto:lingjun.l.zhou@gmail.com"><img src="https://camo.githubusercontent.com/12ba763b7b43cc4405ce18b96d0330e78c803742c538103559373fb72f4e9aba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656d61696c2d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d44444534453426636f6c6f723d363537363846" alt="Email" data-canonical-src="https://img.shields.io/badge/email-informational?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=DDE4E4&amp;color=65768F" style="max-width: 100%;"></a>: How to reach me
-
-- <a href="https://www.linkedin.com/in/ling-jun-zhou/"><img src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=65768F" alt="LinkedIn" style="max-width: 100%;"></a>: Know about my experiences 
+- Ask me about **Python, NLP, Time series, GIS, LiDAR data analysis, FastAPI, PyTorch,** 
 
 - Fun fact: **I think I'm quirky**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ling-jun-zhou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ling-jun-zhou/" height="30" width="40" /></a>
+
+
+<a href="mailto:lingjun.l.zhou@gmail.com"><img src="https://camo.githubusercontent.com/12ba763b7b43cc4405ce18b96d0330e78c803742c538103559373fb72f4e9aba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656d61696c2d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d44444534453426636f6c6f723d363537363846" alt="Email" data-canonical-src="https://img.shields.io/badge/email-informational?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=DDE4E4&amp;color=65768F" style="max-width: 100%;"></a>
+
+<a href="https://www.linkedin.com/in/ling-jun-zhou/"><img src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=65768F" alt="LinkedIn" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages:</h3>
