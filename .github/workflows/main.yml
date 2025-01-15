@@ -1,5 +1,6 @@
 on:
   schedule:
+    - workflow_dispatch
     - cron: '*/2 * * * *'  # This cron expression triggers the workflow every 5 minutes
 
 jobs:
