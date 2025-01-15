@@ -1,0 +1,16 @@
+on:
+  schedule:
+    - cron: '*/2 * * * *'  # This cron expression triggers the workflow every 5 minutes
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # Add your desired actions or commands here that you want to run every 5 minutes
+      - name: Your Action
+        run: |
+          echo "This workflow runs every 5 minutes."
