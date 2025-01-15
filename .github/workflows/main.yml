@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/2 * * * *'  # This cron expression triggers the workflow every 5 minutes
+    - cron: '0 20 * * *'
 
 jobs:
   build:
