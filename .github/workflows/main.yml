@@ -1,17 +1,12 @@
+name: Test Cron Schedule
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 20 * * *'
+    - cron: "*/5 * * * *"  # Runs every 5 minutes for testing
 
 jobs:
-  build:
+  test-cron:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      # Add your desired actions or commands here that you want to run every 5 minutes
-      - name: Your Action
-        run: |
-          echo "This workflow runs every 5 minutes."
+      - run: echo "Cron job ran successfully!"
